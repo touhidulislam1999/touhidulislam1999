@@ -1,11 +1,40 @@
 ![logo](https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Banner%20Final.JPG)
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
-<h1 align="center">Hello there, 👋, I'm Md Touhidul Islam</h1>
-<h3 align="center">A passionate Electrical Engineer from Bangladesh 🇧🇩</h3>
+<p align="center">
+  <a href="https://github.com/touhidulislam1999">
+    <img width="350" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Touhidul%20Islam2.png" alt="Md Touhidul Islam" /></a>
+</p>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Passionate%20Electrical%20Engineer%20from%20Bangladesh&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/touhidulislam"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/touhidul-islam-eee-iut/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/touhidul.14.11.99"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/Touhidu36442112"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://introcardbd.app/profile/md-touhidul-islam"><img width="42px" alt="Dev.to" title="Touhidul Islam" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Profile.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://touhidul.com/"><img width="40px" alt="Ko-fi" title="Website" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Website.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img width="200px" alt="views" title="GitHub profile views" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Visitors.png"/></a>
+</p>
+<p align='center'><img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidulislam1999&label=Profile%20views&color=0e75b6&style=flat" alt="touhidulislam1999" /> </p>
 
 - 🔭 I’m currently working on **Traffic Vehicle Detection of Dhaka City using Deep Learning Algorithm**
 
@@ -24,22 +53,9 @@
 - 📄 Know about my experiences [CV](https://drive.usercontent.google.com/uc?id=1s6yFdoyMmFGDjX5I5rJBv96Yfyuiu5_x&export=download)
 
 - ⚡ Fun fact **I think I've got quite a diverse set of interests.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/touhidul.14.11.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/touhidul.14.11.99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/touhidul-islam-eee-iut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/touhidul-islam-eee-iut/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/professorbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/professorbd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/touhidulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/touhidulislam" height="30" width="40" /></a>
-<a href="https://www.mathworks.com/matlabcentral/cody/players/17603318" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="https://www.mathworks.com/matlabcentral/cody/players/17603318" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/professorbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/professorbd" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/touhidulislam122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/touhidulislam122" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/touhidul_tota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/touhidul_tota/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@touhidulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@touhidulislam" height="30" width="40" /></a>
-<a href="https://twitter.com/touhidu36442112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="touhidu36442112" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<h1 align="center" style="font-size: 50px;">Languages and Tools</p>
+<br/>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -60,7 +76,7 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=touhidulislam1999&show_icons=true&locale=en&layout=compact" alt="touhidulislam1999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidulislam1999&show_icons=true&locale=en" alt="touhidulislam1999" /></p>
