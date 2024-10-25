@@ -2,7 +2,7 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 <p align="center">
   <a href="https://github.com/touhidulislam1999">
-    <img width="350" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Touhidul%20Islam2.png" alt="Md Touhidul Islam" /></a>
+    <img width="350" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Touhidul%20Islam2.png" alt="Touhidul Islam" /></a>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
