@@ -1,4 +1,5 @@
 ![logo](https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Banner%20Final.JPG)
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 <h1 align="center">Hello there, 👋, I'm Md Touhidul Islam</h1>
 <h3 align="center">A passionate Electrical Engineer from Bangladesh 🇧🇩</h3>
 
@@ -32,7 +33,7 @@
 <a href="https://fb.com/https://www.facebook.com/touhidul.14.11.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/touhidul.14.11.99" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/touhidul_tota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/touhidul_tota/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@touhidulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@touhidulislam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/professorbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/professorbd" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/professorbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/professorbd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/touhidulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/touhidulislam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/professorbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/professorbd" height="30" width="40" /></a>
 </p>
