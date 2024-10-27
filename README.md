@@ -1,4 +1,4 @@
-![logo](https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Banner%20Final.JPG)
+![logo](https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Banner%20Final%20(1).jpg)
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 <p align="center">
   <a href="https://github.com/touhidulislam1999">
