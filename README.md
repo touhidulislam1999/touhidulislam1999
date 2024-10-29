@@ -54,7 +54,44 @@
 
 - ⚡ Fun fact **I think I've got quite a diverse set of interests.**
 <br/>
-<h1 align="center" style="font-size: 50px;">Languages and Tools</p>
+
+##  🚀 Siklls:
+
+  <table style="margin: auto; margin-bottom: 15px;">
+  <tr>
+    <th style="text-align: center;">Programming Languages</th>
+    <th style="text-align: center;">IDE / Code Editor</th>
+    <th style="text-align: center;">Softwares</th>
+  </tr>
+  <tr>
+    <td>
+      <!-- Languages -->
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/fBbDhL8.png" alt="Python"> </a>
+      <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
+      <a href=https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
+      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/mfIYuN2.png" alt="React"></a>
+      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/dSQraap.png" alt="Node"> </a>
+    </td>
+    <td>
+      <!-- IDE -->
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/xPCHbol.png" alt="Visual Studio"> </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/o2eJwjS.png" alt="VS code"> </a>
+      <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains"> </a>
+      <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mOtZXCc.png" alt="Vim"> </a>
+      <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/C6XhrQi.png" alt="Sublime Text"> </a>
+    </td>
+    <td>
+      <!-- Softwares -->
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/VFIL02m.png" alt="MySQL"> </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/3GSletB.png" alt="MongoDB"> </a>
+    </td>
+  </tr>
+</table>
+<br/>
+<!--
+<h1 align="center" style="font-size: 50px;">Skills</p>
 <br/>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -76,8 +113,23 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=touhidulislam1999&show_icons=true&locale=en&layout=compact" alt="touhidulislam1999" /></p>
+-->
+## 📉 GitHub Stats 📈
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidulislam1999&show_icons=true&locale=en" alt="touhidulislam1999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=touhidulislam1999&" alt="touhidulislam1999" /></p>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=touhidulislam1999&show_icons=true&theme=transparent&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidulislam1999&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
+       <tr>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=touhidulislam1999&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Contribution graph]" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touhidulislam1999&theme=transparent&layout=compact&hide=html"> </td>
+       </tr>
+     </tr>
+   </table>
+</p>
+<br>
