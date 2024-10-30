@@ -55,7 +55,7 @@
 - ⚡ Fun fact **I think I've got quite a diverse set of interests.**
 <br/>
 
-##  🚀 Siklls:
+##  🚀 Skills:
 
   <table style="margin: auto; margin-bottom: 15px;">
   <tr>
@@ -68,7 +68,7 @@
       <!-- Languages -->
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/fBbDhL8.png" alt="Python"> </a>
       <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
-      <a href=https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
       <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/mfIYuN2.png" alt="React"></a>
