@@ -60,8 +60,9 @@
   <table style="margin: auto; margin-bottom: 15px;">
   <tr>
     <th style="text-align: center;">Programming Languages</th>
-    <th style="text-align: center;">IDE / Code Editor</th>
-    <th style="text-align: center;">Softwares</th>
+    <th style="text-align: center;">IDE</th>
+    <th style="text-align: center;">DB</th>
+    <th style="text-align: center;">Softwares & Tools</th>
   </tr>
   <tr>
     <td>
@@ -70,6 +71,7 @@
       <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
       <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
+      <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL"> </a>
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/mfIYuN2.png" alt="React"></a>
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/dSQraap.png" alt="Node"> </a>
@@ -81,9 +83,15 @@
       <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains"> </a>
     </td>
     <td>
-      <!-- Softwares -->
+      <!-- Database -->
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/VFIL02m.png" alt="MySQL"> </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/3GSletB.png" alt="MongoDB"> </a>
+    </td>
+    <td>
+      <!-- Software & Tools -->
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/67tIoa4.png" alt="Git"> </a>
+      <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mCUiCIm.png" alt="Adobe"> </a>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/X5e0bWR.png" alt="Arduino"> </a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/wOhq2gN.png" alt="Android Studio"> </a>
     </td>
   </tr>
 </table>
