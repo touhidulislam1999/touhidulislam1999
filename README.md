@@ -79,8 +79,6 @@
       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/xPCHbol.png" alt="Visual Studio"> </a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/o2eJwjS.png" alt="VS code"> </a>
       <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains"> </a>
-      <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mOtZXCc.png" alt="Vim"> </a>
-      <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/C6XhrQi.png" alt="Sublime Text"> </a>
     </td>
     <td>
       <!-- Softwares -->
@@ -114,7 +112,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 -->
-## 📉 GitHub Stats 📈
+ 📉 GitHub Stats 📈
 
 <p align="center">
    <table>
